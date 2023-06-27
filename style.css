@@ -1,0 +1,19 @@
+h1{
+    color: red
+}
+
+.item_price{
+    background-color: orange;
+    color: blue
+    margin-top: 100px
+}
+
+.des{
+    font-size: 50px;
+}
+.par{
+    text-align: center;
+    font-size: 24px;
+    font-style: oblique;
+    text-shadow: green 2px 3px 4px
+}
